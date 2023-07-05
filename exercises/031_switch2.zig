@@ -26,9 +26,17 @@ pub fn main() void {
             8 => 'H',
             9 => 'I',
             10 => 'J',
-            // ...
+            11 => 'K',
+            12 => 'L',
+            13 => 'M',
+            14 => 'N',
+            15 => 'O',
+            16 => 'P',
+            17 => 'Q',
+            18 => 'R',
             25 => 'Y',
             26 => 'Z',
+            else => '!',
             // As in the last exercise, please add the 'else' clause
             // and this time, have it return an exclamation mark '!'.
         };
